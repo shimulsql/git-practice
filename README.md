@@ -1,2 +1,2 @@
 # git-practice
-practicing git amd github
+practicing git and github
